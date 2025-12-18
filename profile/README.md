@@ -14,19 +14,19 @@ Our work spans microcontroller programming, embedded systems, sensor integration
 We create hands-on projects that bridge the gap between theoretical knowledge and practical engineering, making advanced robotics and IoT technology accessible to hobbyists, students, and early-career engineers.
 
 ### Focus Areas
-- **Autonomous Systems** – Robots and vehicles that perceive, decide, and act independently
 - **Arduino & Microcontroller Programming** – Low-level embedded systems development in C/C++ and MicroPython
 - **IoT & Sensor Integration** – Multi-sensor systems with wireless connectivity (Bluetooth, nRF24L01)
 - **Hardware-Software Integration** – End-to-end system design from circuit to code
-- **RC Vehicles & Mechatronics** – Motor control, PWM, and Mecanum wheel kinematics
+- **RC Vehicles ** – Motor control, PWM, and Mecanum wheel kinematics
 - **Real-time Debugging & Testing** – Serial monitoring, hardware validation, and iterative prototyping
-
+- **Autonomous Systems** – Robots and vehicles that perceive, decide, and act independently
+- **GAME DEVELOPMENT** – creating and educating students to make games in order to learn techie skills  
 ---
 
 ## Leadership & Ownership
 
 ### Core Team
-The organization is led by a dedicated team of makers and engineers with expertise in robotics, embedded systems, and IoT architecture. Our leaders are actively involved in:
+The organization is led by a dedicated team of makers and engineers & artists with expertise in robotics, embedded systems, and IoT architecture and  others . Our leaders are actively involved in:
 - Project roadmaps and technical direction
 - Code quality standards and review practices
 - Documentation and knowledge sharing
@@ -77,13 +77,17 @@ Browse our repositories to discover projects in progress, completed demonstratio
 ## Get Started
 
 👉 **Check out our repositories** to see active projects in robotics, IoT, and embedded systems
-
 💬 **Join discussions** to share ideas and ask questions
-
 🚀 **Contribute** with pull requests, issue reports, and feature suggestions
-
 📚 **Learn together** – We believe in collaborative problem-solving and knowledge sharing
 
 ---
 
 **jnvrr** – Building smarter robots, one line of code at a time.
+
+
+CORE/LEAD DEVELOPER : YESHWANTH KUMAR DOMALA
+
+DEPARTMENT HEAD ; S. KAVITHA 
+
+REPRESENTATIVE HEAD ;  CH. NIROSHA
